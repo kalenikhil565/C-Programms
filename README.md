@@ -21,9 +21,6 @@ C programming is a powerful general-purpose programming language. It is widely u
 - Functions and Recursion
 - Arrays and Pointers
 - Structures and Unions
-- File Handling
-- Sorting and Searching algorithms
-- Data Structures (Stacks, Queues, Linked Lists)
 - Dynamic Memory Allocation
 - Bitwise Operators
 - C Preprocessor Directives
