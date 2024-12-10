@@ -66,37 +66,6 @@ Below are the categories of C programs included in this repository:
 - Union usage and differences with structure
 - Structure in file handling
 
-### 6. **File Handling**
-- Reading from and writing to files
-- File copy program
-- Count words, lines, and characters in a file
-
-### 7. **Sorting and Searching Algorithms**
-- Bubble Sort
-- Insertion Sort
-- Selection Sort
-- Quick Sort
-- Merge Sort
-- Linear Search
-- Binary Search
-
-### 8. **Data Structures**
-- Stack Implementation using Arrays
-- Queue Implementation using Arrays
-- Linked List (Singly and Doubly)
-- Circular Linked List
-- Stack using Linked List
-- Queue using Linked List
-
-### 9. **Memory Management**
-- Using `malloc`, `calloc`, `realloc`, and `free`
-- Memory leak detection
-
-### 10. **Bitwise Operators**
-- Bitwise AND, OR, XOR operations
-- Bit shifting operations
-- Setting, clearing, and toggling bits
-
 ---
 
 ## How to Use
